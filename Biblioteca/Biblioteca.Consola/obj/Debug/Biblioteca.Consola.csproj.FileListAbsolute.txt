@@ -1,0 +1,6 @@
+C:\Users\Gersonv\Desktop\Progra4\Biblioteca_piv\Biblioteca\Biblioteca.Consola\bin\Debug\Biblioteca.Consola.exe.config
+C:\Users\Gersonv\Desktop\Progra4\Biblioteca_piv\Biblioteca\Biblioteca.Consola\bin\Debug\Biblioteca.Consola.exe
+C:\Users\Gersonv\Desktop\Progra4\Biblioteca_piv\Biblioteca\Biblioteca.Consola\bin\Debug\Biblioteca.Consola.pdb
+C:\Users\Gersonv\Desktop\Progra4\Biblioteca_piv\Biblioteca\Biblioteca.Consola\obj\Debug\Biblioteca.Consola.csprojResolveAssemblyReference.cache
+C:\Users\Gersonv\Desktop\Progra4\Biblioteca_piv\Biblioteca\Biblioteca.Consola\obj\Debug\Biblioteca.Consola.exe
+C:\Users\Gersonv\Desktop\Progra4\Biblioteca_piv\Biblioteca\Biblioteca.Consola\obj\Debug\Biblioteca.Consola.pdb
